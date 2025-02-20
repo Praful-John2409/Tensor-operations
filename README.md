@@ -11,8 +11,8 @@ This repository includes:
 
 ## Notebooks
 
-### 1️⃣ Tensor Operations in TensorFlow 2.0
-📌 **Colab Notebook**: [TensorFlow Tensor Operations](https://colab.research.google.com/drive/1fpDuYr7bYNnOEsZJnuYVkVRWtp2lInOg?usp=sharing)
+### 1️⃣ Tensor Operations in TensorFlow 
+📌 **Colab Notebook**: [TensorFlow Tensor Operations](https://colab.research.google.com/drive/1calK9JlmT40GuiT1wXH4lCKlOZCpwPzr?usp=sharing)
 
 🔹 This notebook covers:
 - Creating and manipulating tensors

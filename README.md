@@ -42,5 +42,5 @@ These resources were referenced while creating the notebooks:
 - TensorFlow Deep Learning Course: [Mr. Bourke's Guide](https://github.com/mrdbourke/tensorflow-deep-learning)
 
 ## 📽️ Video Walkthrough
-A walkthrough video explaining both notebooks is available here: [Watch Video](https://youtu.be/gk8bVesnP8U)
+A walkthrough video explaining both notebooks is available here: [Watch Video](https://youtu.be/DEmslsyckYU)
 
